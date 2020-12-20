@@ -12,4 +12,4 @@ To show this in practice, we'll use a real dataset of cats and dogs. What I mean
 
 ## Results
 
-![alt text](img_demo.jpg)
+![alt text](img_demo2.jpg)
